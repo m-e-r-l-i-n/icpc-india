@@ -2,7 +2,7 @@
 
 ICPC India 2021-22 is knocking at the door. So, inspired by similar blogs on Codeforces for [Open Cup](https://codeforces.com/blog/entry/84466), [Petrozavodsk Camp](https://codeforces.com/blog/entry/84489), and [USACO](https://codeforces.com/blog/entry/95032), and also due to the fact [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) collapsed, I decided to list down all ICPC contests of India I could find. 
 
-Please note that this blog contains only the materials and links I could find, and in case there are better alternatives, feel free to suggest. Also, since I am not a native English speaker, apologies for any grammatical errors. I hope this is of some help to you guys. 
+Please note that this blog contains only the materials and links I could find. Also, since I am not a native English speaker, apologies for any grammatical errors. I hope this is of some help to you guys. 
 
 ### ICPC 2020-21
 
@@ -45,6 +45,8 @@ With ICPC Live Archive down, and resources limited, I could not find older conte
 
 Concluding notes:<br>
 <ul>
-<li>I have linked the contests to the ICPC site. It contains standings, problems, reports and also the local website links. Explore around to find all details.</li> 
+<li>In case there is any error, or I have missed out on anything, or there exist better alternatives, feel free to suggest in the comments.</li>
+<li>A lot of material in this blog have been taken from <a href="https://www.codechef.com/icpc">Codechef</a>. Kudos to them.</li> 
+<li>I have linked the contests to the <a href="https://icpc.global/">ICPC Site</a>. It contains standings, problems, reports and also the local website links. Explore around to find all details.</li> 
 <li>Good team contests in India are rare, so I had a (far fetched) idea of making a <a href="https://codeforces.com/groups">CF group</a> which contained all Indian ICPC contests so that teams could participate and train themselves. However, I don't think I alone can do that. I hope Indian ICPC Committee (not sure if there exists any) considers about doing something similar in future.</li>
 </ul>
