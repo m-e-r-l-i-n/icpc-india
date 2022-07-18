@@ -42,4 +42,4 @@ The discussion blog linked in Gwalior-Pune regional also ~discusses~ rants about
 <br>
 <br>
 With ICPC Live Archive down, and resources limited, I could not find older contests. In case anyone wants to help, feel free.<br><br>
-Good team contests in India are rare, so I had a (far fetched) idea of making a [CF group](https://codeforces.com/groups) which contained all Indian ICPC contests so that teams could participate and train themselves. However, I don't think I alone can do that. I hope Indian ICPC Committee (if there exists any) considers about doing something similar in future. 
+Good team contests in India are rare, so I had a (far fetched) idea of making a [CF group](https://codeforces.com/groups/) which contained all Indian ICPC contests so that teams could participate and train themselves. However, I don't think I alone can do that. I hope Indian ICPC Committee (if there exists any) considers about doing something similar in future. 
