@@ -2,7 +2,7 @@
 
 ICPC India 2021-22 is knocking at the door. So, inspired by similar blogs on Codeforces for [Open Cup](https://codeforces.com/blog/entry/84466), [Petrozavodsk Camp](https://codeforces.com/blog/entry/84489), and [USACO](https://codeforces.com/blog/entry/95032), and also due to the fact [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) collapsed, I decided to list down all ICPC contests of India I could find. 
 
-Please note that this blog contains only the materials and links I could find, and in case there are better alternatives, feel free to suggest. Also, since I am not a native English speaker, apologies for any grammatical errors. I hope this is of some help to you guys.
+Please note that this blog contains only the materials and links I could find, and in case there are better alternatives, feel free to suggest. Also, since I am not a native English speaker, apologies for any grammatical errors. I hope this is of some help to you guys. 
 
 ### ICPC 2020-21
 
@@ -40,5 +40,11 @@ Like 2019-20, this year too the online round was same for all regionals. More de
 The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants about the other regionals held this year.
 
 <br><br>
-With ICPC Live Archive down, and resources limited, I could not find older contests. In case anyone wants to help, feel free.<br><br>
-Good team contests in India are rare, so I had a (far fetched) idea of making a [CF group](https://codeforces.com/groups) which contained all Indian ICPC contests so that teams could participate and train themselves. However, I don't think I alone can do that. I hope Indian ICPC Committee (if there exists any) considers about doing something similar in future.
+With ICPC Live Archive down, and resources limited, I could not find older contests. In case anyone wants to help, feel free.
+
+
+Concluding notes:<br>
+<ul>
+<li>I have linked the contests to the ICPC site. It contains standings, problems, reports and also the local website links. Explore around to find all details.</li> 
+<li>Good team contests in India are rare, so I had a (far fetched) idea of making a <a href="https://codeforces.com/groups">CF group</a> which contained all Indian ICPC contests so that teams could participate and train themselves. However, I don't think I alone can do that. I hope Indian ICPC Committee (not sure if there exists any) considers about doing something similar in future.</li>
+</ul>
