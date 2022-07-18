@@ -30,11 +30,11 @@ Please note that the online round was the same for all regionals, and conducted 
 ### ICPC 2018-19
 | Contest | Upsolving | Materials |
 |-|-|-|
-| Online Preliminary Round |[Codechef](https://www.codechef.com/ACMIND18)||
-|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2018)|[Codechef](https://www.codechef.com/AMR18ROL)||
+| Online Preliminary Round |[Codechef](https://www.codechef.com/ACMIND18)|&nbsp;|
+|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2018)|[Codechef](https://www.codechef.com/AMR18ROL)|&nbsp;|
 |[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2018)|[Codechef](https://www.codechef.com/GWR18ROL)|[Discuss](https://codeforces.com/blog/entry/64033)|
 |[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2018)|[Codechef](https://www.codechef.com/KGP18ROL)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/KGP2018PROBLEMS.pdf)|
-|[Kolkata-Kanpur Regional](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2018)|[Codechef](https://www.codechef.com/KOL18ROL)||
+|[Kolkata-Kanpur Regional](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2018)|[Codechef](https://www.codechef.com/KOL18ROL)|&nbsp;|
 
 Like 2019-20, this year too the online round was same for all regionals. More details can be found [here](https://www.codechef.com/icpc/2019).<br>
 The discussion blog linked in Gwalior-Pune regional also ~discusses~ rants about the other regionals held this year.
