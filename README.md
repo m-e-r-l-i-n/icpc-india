@@ -46,8 +46,15 @@ The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants 
 
 | Contest | Upsolving | Materials |
 |-|-|-|
+|Preliminary Round Online| [Codechef](https://www.codechef.com/ACMIND17) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/KharagpurOnlineProblemSet2017.pdf) |
+|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2017)| [Codechef](https://www.codechef.com/AMR17ROL) | Solutions:[1](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%20AMR17.pdf),[2](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Gleb_Slides_2018_amritapuri.pdf) [Discuss](https://codeforces.com/blog/entry/57497)|
+|[Chennai Regional](https://icpc.global/regionals/finder/AR-Chennai-2017)| [Codechef](https://www.codechef.com/CHN17ROL) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2017-acm-icpc-asia-chennai-regional-problem-set.pdf) Discuss:[1](https://discuss.codechef.com/tag/acm17chn),[2](https://codeforces.com/blog/entry/56939) |
+|[Gwalior Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-2017)| [Codechef](https://www.codechef.com/GWR17ROL) | [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%20Gwalior%20Solutions.pdf) Discuss:[1](https://discuss.codechef.com/tag/gwr17rol),[2](https://codeforces.com/blog/entry/57178) |
+|[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2017)| [Codechef](https://www.codechef.com/KGP17ROL) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/KharagpurOnsiteProblemSet2017.pdf) [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/kgp17.pdf) Discuss:[1](https://discuss.codechef.com/tag/acm17kgp),[2](https://codeforces.com/blog/entry/57041) |
+|[Kolkata-Kanpur Regional](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2017)| [Codechef](https://www.codechef.com/KOL17ROL) | Solutions:[1](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ACM%20ICPC%20Regional%2C%20Kolkata%20Kanpur%20Site%2C%202017%20Solution%20Outlines.pdf),[2](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ACM%20ICPC%202017%20-%20Kolkata%20Kanpur%20Regional.pdf) [Discuss](https://codeforces.com/blog/entry/57348)|
 
-
+This year too the preliminary round was the same for all regionals and held online. More details can be found [here](https://www.codechef.com/icpc/2018).<br>
+Some discuss links also contain editorials of the respective contests.
 
 ### ICPC 2012-13
 
