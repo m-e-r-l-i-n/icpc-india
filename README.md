@@ -22,7 +22,7 @@ Please note that this blog contains only the materials and links I could find. A
 |[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2019)|[Codechef](https://www.codechef.com/AM19MOS)|[Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%20Amritapuri%202019.pdf)|
 |[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2019)|[Codechef](https://www.codechef.com/GW19MOS)|[Discuss](https://discuss.codechef.com/tag/gw19mos/)|
 |[Kanpur Regional](https://icpc.global/regionals/finder/Asia-Kanpur-2019)|[Codechef](https://www.codechef.com/KA19MOS)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2019kanpur.pdf) [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC_Kanpur_2019___Problem_Discussion.pdf)|
-|[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2019)|[Codechef](https://www.codechef.com/KH19MOS)|[Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Problem_Discussion_2019_KGP.pdf)|
+|[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2019)|[Codechef](https://www.codechef.com/KH19MOS)|[Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Problem_Discussion_2019_KGP.pdf) Discuss:[1](https://discuss.codechef.com/t/icpc-asia-kharagpur-onsite-2019-solution-outlines/45978?u=harshraj22),[2](https://codeforces.com/blog/entry/72009)|
 
 Please note that the online round was the same for all regionals, and conducted on codechef. More details can be found [here](https://www.codechef.com/icpc/2020).<br>
 The Gwalior-Pune regional editorials and solutions can be found in the <i>discussions</i> as well.   
