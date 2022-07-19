@@ -47,6 +47,8 @@ The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants 
 | Contest | Upsolving | Materials |
 |-|-|-|
 
+
+
 ### ICPC 2012-13
 
 | Contest | Upsolving | Materials |
@@ -58,7 +60,8 @@ The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants 
 | [Kharagpur Online Round](https://icpc.global/regionals/finder/Kharagpur-North-India-2012) | [Codechef](https://www.codechef.com/ACMKGP12) |&nbsp;|
 | [Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2012) | &nbsp;| [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2012kharagpur.pdf) |
 
-More data of Amritapuri contests can be downloaded from [here](https://icpc.amrita.ac.in/downloads/).
+<b>Please be careful before clicking on 'testdata'.</b> More data of Amritapuri contests can be downloaded from [here](https://icpc.amrita.ac.in/downloads/).<br>
+[Virtual Judge/Vjudge](https://vjudge.net/) is not an OJ, but a medium that helps you to submit solutions to various OJs without opening accounts. The problems listed are available on SPOJ, and can be solved there as well.<br>
 
 
 ### ICPC 2011-12
@@ -70,8 +73,8 @@ More data of Amritapuri contests can be downloaded from [here](https://icpc.amri
 |[Kanpur Preliminary Online Round](https://icpc.global/regionals/finder/Kanpur-Preliminary-2011)| [Codechef](https://www.codechef.com/ACMKAN11) | &nbsp; |
 |[Kanpur Regional](https://icpc.global/regionals/finder/Kanpur-2011)| &nbsp; | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/PROBLEMS2011.pdf) [Website](https://www.cse.iitk.ac.in/users/acm/archive/acm2011/index.html)|
 
-[Virtual Judge/Vjudge](https://vjudge.net/) is not an OJ, but a medium that helps you to submit solutions to various OJs without opening accounts. The problems are available on SPOJ, and can be solved there as well.<br>
-Some more information and downloadable of Amritapuri rounds can be found [here](https://amritaicpc.wordpress.com/).
+All problems listed in Vjudge are taken from SPOJ.<br>
+Some more information of Amritapuri regionals can be found [here](https://amritaicpc.wordpress.com/).
 
 
 ### ICPC 2010-11
@@ -93,7 +96,7 @@ Kanpur Site also organized a warm-up contest, it can be upsolved [here](https://
 | [Amritapuri Regional](https://icpc.global/regionals/finder/Amritapuri-2009) | [Baekjoon](https://www.acmicpc.net/category/detail/1540) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2009problemsamrita.pdf) [Testdata](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2009problems_amritapuri.rar) |
 | [Gwalior-Kanpur Regional](https://icpc.global/regionals/finder/Gwalior-Kanpur-2009) | &nbsp; | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/PROBLEMS2009kanpur.pdf) [Website](https://www.cse.iitk.ac.in/users/acm/archive/acm2009/index.html)|
 
-Please note the baekjoon link does not have all the problems. They might be added in future.<br>
+Please note the Baekjoon site does not have all the problems. They might be added in future.<br>
 
 
 ### ICPC 2008-09
@@ -120,8 +123,8 @@ With ICPC Live Archive down, and resources limited, I could not find a lot of re
 Concluding notes:<br>
 <ul>
 <li>In case there is any error, or I have missed out on anything, or there exist better alternatives, feel free to suggest in the comments.</li>
-<li>I uploaded a lot of data on github because I was unsure if the sites would be active in the distant future. Already enough links are down, and it was hard to find the pdf versions of the problems.</li> 
-<li>A lot of material in this blog have been taken from <a href="https://www.codechef.com/icpc">Codechef</a>. Kudos to them.</li> 
+<li>I uploaded a lot of data on github because I was unsure if the sites would be active in the distant future. Already enough links are down.</li> 
+<li>A lot of material in this blog has been taken from <a href="https://www.codechef.com/icpc">Codechef</a>. Kudos to them.</li> 
 <li>I have linked most of the contests to the <a href="https://icpc.global/">ICPC Site</a>. It contains standings, problems, reports and also the local website links (some links might not work, I have added as many as I could find, maybe googling will help). Explore around to find all details.</li> 
 <li>Good team contests in India are rare, so I had a (far fetched) idea of making a <a href="https://codeforces.com/groups">CF group</a> which contained all Indian ICPC contests so that teams could participate and train themselves. However, I don't think I alone can do that. I hope Indian ICPC Committee (not sure if there exists any) considers about doing something similar in future.</li>
 </ul>
