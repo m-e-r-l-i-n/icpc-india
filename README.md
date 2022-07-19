@@ -60,7 +60,7 @@ The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants 
 | [Kharagpur Online Round](https://icpc.global/regionals/finder/Kharagpur-North-India-2012) | [Codechef](https://www.codechef.com/ACMKGP12) |&nbsp;|
 | [Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2012) | &nbsp;| [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2012kharagpur.pdf) |
 
-<b>Please be careful before clicking on 'testdata'.</b> More data of Amritapuri contests can be downloaded from [here](https://icpc.amrita.ac.in/downloads/).<br>
+<b>Please be careful before clicking on 'testdata', size of file around 35MB.</b> More data of Amritapuri contests can be downloaded from [here](https://icpc.amrita.ac.in/downloads/).<br>
 [Virtual Judge/Vjudge](https://vjudge.net/) is not an OJ, but a medium that helps you to submit solutions to various OJs without opening accounts. The problems listed are available on SPOJ, and can be solved there as well.<br>
 
 
