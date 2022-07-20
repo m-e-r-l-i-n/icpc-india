@@ -56,6 +56,21 @@ The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants 
 This year too the preliminary round was the same for all regionals and held online. More details can be found [here](https://www.codechef.com/icpc/2018).<br>
 Some discuss links also contain editorials of the respective contests.
 
+
+### ICPC 2016-17
+
+| Contest | Upsolving | Materials |
+|-|-|-|
+|Preliminary Round Online| [Codechef](https://www.codechef.com/ACMIND16) | &nbsp; |
+| [Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2016) | [Codechef](https://www.codechef.com/AMR16MOS) | [Solutions]() Discuss:[1](https://discuss.codechef.com/search?q=amr16),[2](https://codeforces.com/blog/entry/49222) |
+| [Chennai Regional](https://icpc.global/regionals/finder/AR-Chennai-2016) | [Codechef](https://www.codechef.com/CHN16MOS) | [Discuss](https://codeforces.com/blog/entry/49195) |
+| [Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2016) | [Codechef](https://www.codechef.com/KGP16MOS) | &nbsp; |
+| [Kolkata Regional](https://icpc.global/regionals/finder/ICPC-Kolkata-2016) | [Codechef](https://www.codechef.com/KOL16MOS) | &nbsp;|
+| [India Final](https://icpc.global/regionals/finder/AR-India-FINAL-2016) | [Codechef](https://www.codechef.com/INF16MOS) | &nbsp; |
+
+For onsite regionals, Codechef-ids of contests are something like ACM16(x), where x=AMR,CHN,KOL,KGP. For example, Chennai's regional can be accessed [here](https://www.codechef.com/ACM16CHN).
+
+
 ### ICPC 2012-13
 
 | Contest | Upsolving | Materials |
