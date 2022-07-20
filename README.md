@@ -82,6 +82,34 @@ For onsite regionals, Codechef-ids of contests are something like ACM16(x), wher
 | [Kolkata Online Round](https://icpc.global/regionals/finder/Kolkata-First-Round-2015) | [Codechef](https://www.codechef.com/ACMKOL15) | &nbsp;|
 | [Kolkata Regional](https://icpc.global/regionals/finder/Kolkata-2015) | [Codechef](https://www.codechef.com/KOL15MOS) | &nbsp;|
 
+### ICPC 2014-15
+
+| Contest | Upsolving | Materials |
+|-|-|-|
+|[Amritapuri Online Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2014)| [Codechef](https://www.codechef.com/ACMAMR14) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2014amrita_online.pdf) |
+|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2014)| [Codechef](https://www.codechef.com/AMR14ROS) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2014amrita_onsite.pdf) [Discuss](https://discuss.codechef.com/tag/amr14ros) [Website](https://icpc.amrita.ac.in/2014/)|
+|[Gwalior-Kanpur Online Round](https://icpc.global/regionals/finder/Gwalior-First-Round-2014)| [Codechef](https://www.codechef.com/ACMKAN14) | &nbsp;|
+|[Gwalior-Kanpur Regional](https://icpc.global/regionals/finder/Gwalior-2014)| [Codechef](https://www.codechef.com/KAN14ROS) |&nbsp;|
+|[Kharagpur Online Round](https://icpc.global/regionals/finder/Kharagpur-India-2014)| [Codechef](https://www.codechef.com/ACMKGP14) | &nbsp;|
+| Kharagpur Online Re-contest | [Codechef](https://www.codechef.com/ACMKG14R) | [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ACM%20Kharagpur%20online%20round%20-%20Oct%2030%202014.pdf)|
+|[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2014)| [Codechef](https://www.codechef.com/KGP14ROS) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/QP-2014_kgp.pdf) [Discuss](https://discuss.codechef.com/tag/kgp14ros) |
+
+More downloadable content of Amritapuri regional can be seen [here](https://icpc.amrita.ac.in/2014/downloads/).<br>
+Discuss links also contain editorials.<br>
+Looks like the Kharagpur Prelims was held twice, the details of that however, are <b>not</b> present [here](https://www.codechef.com/icpc/2015). Some hints can be found [here](https://discuss.codechef.com/t/question-in-asia-kharagpur-site-first-round-online-contest-2014-was-straight-out-of-google-code-jam-world-final-2009/7685) though.
+
+
+### ICPC 2013-14
+
+| Contest | Upsolving | Materials |
+|-|-|-|
+|[Amritapuri Online Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2013)| &nbsp; | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2013amritapuri_online.pdf) |
+|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2013)| &nbsp;| &nbsp; |
+|[Kanpur Online Round](https://icpc.global/regionals/finder/Kanpur-First-Round-2013)| [Codechef](https://www.codechef.com/ACMKAN13) | [Discuss](https://discuss.codechef.com/tag/acmkan13) |
+|[Kanpur Regional](https://icpc.global/regionals/finder/Kanpur-2013) | [Codechef](https://www.codechef.com/KAN13ACM) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/OnsiteProblem2013kanpur.pdf) [Discuss](https://discuss.codechef.com/tag/kan13acm) [Website](https://www.cse.iitk.ac.in/users/acm/archive/acm2013/) |
+|[Kharagpur Online Round](https://icpc.global/regionals/finder/Kharagpur-India-2013) | [Codechef](https://www.codechef.com/ACMKGP13) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Kharagpur_Site_Online_Problems_2013.pdf) [Discuss](https://discuss.codechef.com/tag/acmkgp13) |
+|[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2013)| [Codechef](https://www.codechef.com/KGP13ACM) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/onsite_problems_2013_kgp.pdf) [Discuss](https://discuss.codechef.com/tag/kgp13acm) |
+
 
 ### ICPC 2012-13
 
