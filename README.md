@@ -18,7 +18,7 @@ Please note that this blog contains only the materials and links I could find. A
 
 | Contest | Upsolving | Materials |
 |-|-|-|
-|[Online Preliminary Round](https://icpc.global/regionals/finder/Gwalior-Pune-First-Round-2019)|[Codechef](https://www.codechef.com/ICPCIN19)|Discuss:[1](https://discuss.codechef.com/t/icpc-2019-online-round-discussion/41752),[2](https://codeforces.com/blog/entry/70681)|
+|Online Preliminary Round|[Codechef](https://www.codechef.com/ICPCIN19)|Discuss:[1](https://discuss.codechef.com/t/icpc-2019-online-round-discussion/41752),[2](https://codeforces.com/blog/entry/70681)|
 |[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2019)|[Codechef](https://www.codechef.com/AM19MOS)|[Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%20Amritapuri%202019.pdf)|
 |[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2019)|[Codechef](https://www.codechef.com/GW19MOS)|[Discuss](https://discuss.codechef.com/tag/gw19mos/)|
 |[Kanpur Regional](https://icpc.global/regionals/finder/Asia-Kanpur-2019)|[Codechef](https://www.codechef.com/KA19MOS)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2019kanpur.pdf) [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC_Kanpur_2019___Problem_Discussion.pdf)|
@@ -32,7 +32,7 @@ The Gwalior-Pune regional editorials and solutions can be found in the <i>discus
 
 | Contest | Upsolving | Materials |
 |-|-|-|
-| Online Preliminary Round |[Codechef](https://www.codechef.com/ACMIND18)|&nbsp;|
+| Online Preliminary Round |[Codechef](https://www.codechef.com/ACMIND18)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2018online_problems.pdf) Discuss:[1](https://discuss.codechef.com/t/acm-icpc-online-round/20657),[2](https://discuss.codechef.com/t/acmind18-icpc-online-round-solution-outlines/20684),[3](https://codeforces.com/blog/entry/62666)|
 |[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2018)|[Codechef](https://www.codechef.com/AMR18ROL)|&nbsp;|
 |[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2018)|[Codechef](https://www.codechef.com/GWR18ROL)|[Discuss](https://codeforces.com/blog/entry/64033)|
 |[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2018)|[Codechef](https://www.codechef.com/KGP18ROL)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/KGP2018PROBLEMS.pdf)|
@@ -46,7 +46,7 @@ The discussion blog linked in Gwalior-Pune regional also <s>discusses</s> rants 
 
 | Contest | Upsolving | Materials |
 |-|-|-|
-|Preliminary Round Online| [Codechef](https://www.codechef.com/ACMIND17) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/KharagpurOnlineProblemSet2017.pdf) |
+|Online Preliminary Round| [Codechef](https://www.codechef.com/ACMIND17) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/KharagpurOnlineProblemSet2017.pdf) |
 |[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2017)| [Codechef](https://www.codechef.com/AMR17ROL) | Solutions:[1](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%20AMR17.pdf),[2](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Gleb_Slides_2018_amritapuri.pdf) [Discuss](https://codeforces.com/blog/entry/57497)|
 |[Chennai Regional](https://icpc.global/regionals/finder/AR-Chennai-2017)| [Codechef](https://www.codechef.com/CHN17ROL) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/2017-acm-icpc-asia-chennai-regional-problem-set.pdf) Discuss:[1](https://discuss.codechef.com/tag/acm17chn),[2](https://codeforces.com/blog/entry/56939) |
 |[Gwalior Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-2017)| [Codechef](https://www.codechef.com/GWR17ROL) | [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%20Gwalior%20Solutions.pdf) Discuss:[1](https://discuss.codechef.com/tag/gwr17rol),[2](https://codeforces.com/blog/entry/57178) |
@@ -61,14 +61,26 @@ Some discuss links also contain editorials of the respective contests.
 
 | Contest | Upsolving | Materials |
 |-|-|-|
-|Preliminary Round Online| [Codechef](https://www.codechef.com/ACMIND16) | &nbsp; |
-| [Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2016) | [Codechef](https://www.codechef.com/AMR16MOS) | [Solutions]() Discuss:[1](https://discuss.codechef.com/search?q=amr16),[2](https://codeforces.com/blog/entry/49222) |
+|Online Preliminary Round| [Codechef](https://www.codechef.com/ACMIND16) | &nbsp; |
+| [Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2016) | [Codechef](https://www.codechef.com/AMR16MOS) | [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ACM%20ICPC%20Amrita%202016.pdf) Discuss:[1](https://discuss.codechef.com/search?q=amr16),[2](https://codeforces.com/blog/entry/49222) |
 | [Chennai Regional](https://icpc.global/regionals/finder/AR-Chennai-2016) | [Codechef](https://www.codechef.com/CHN16MOS) | [Discuss](https://codeforces.com/blog/entry/49195) |
 | [Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2016) | [Codechef](https://www.codechef.com/KGP16MOS) | &nbsp; |
 | [Kolkata Regional](https://icpc.global/regionals/finder/ICPC-Kolkata-2016) | [Codechef](https://www.codechef.com/KOL16MOS) | &nbsp;|
-| [India Final](https://icpc.global/regionals/finder/AR-India-FINAL-2016) | [Codechef](https://www.codechef.com/INF16MOS) | &nbsp; |
+| [India Final](https://icpc.global/regionals/finder/AR-India-FINAL-2016) | [Codechef](https://www.codechef.com/INF16MOS) | [Discuss](https://codeforces.com/blog/entry/49396) |
 
 For onsite regionals, Codechef-ids of contests are something like ACM16(x), where x=AMR,CHN,KOL,KGP. For example, Chennai's regional can be accessed [here](https://www.codechef.com/ACM16CHN).
+
+
+### ICPC 2015-16
+
+| Contest | Upsolving | Materials |
+|-|-|-|
+| [Amritapuri Online Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2015) | [Codechef](https://www.codechef.com/ACMAMR15) | &nbsp;|
+| [Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2015) | [Codechef](https://www.codechef.com/AMR15MOS) | Discuss:[1](https://codeforces.com/blog/entry/49295),[2](https://codeforces.com/blog/entry/22205) |
+| [Chennai Online Round](https://icpc.global/regionals/finder/Chennai-India-2015) | [Codechef](https://www.codechef.com/ACMCHN15) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Chennai2015online.pdf) [Testdata](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ChennaiIICPC2015OnlineAllProblemsData.zip) |
+| [Chennai Regional](https://icpc.global/regionals/finder/Chennai-2015) | [Codechef](https://www.codechef.com/CHN15MOS) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Chennai2015onsite.pdf) [Testdata](https://www.dropbox.com/s/cfl2iqurvox3p0u/ICPCChennaiRegionals2015AllProblemsData.zip?dl=0) [Discuss](https://codeforces.com/blog/entry/22953)|
+| [Kolkata Online Round](https://icpc.global/regionals/finder/Kolkata-First-Round-2015) | [Codechef](https://www.codechef.com/ACMKOL15) | &nbsp;|
+| [Kolkata Regional](https://icpc.global/regionals/finder/Kolkata-2015) | [Codechef](https://www.codechef.com/KOL15MOS) | &nbsp;|
 
 
 ### ICPC 2012-13
