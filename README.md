@@ -68,7 +68,7 @@ Some discuss links also contain editorials of the respective contests.
 | [Kolkata Regional](https://icpc.global/regionals/finder/ICPC-Kolkata-2016) | [Codechef](https://www.codechef.com/KOL16MOS) | &nbsp;|
 | [India Final](https://icpc.global/regionals/finder/AR-India-FINAL-2016) | [Codechef](https://www.codechef.com/INF16MOS) | [Discuss](https://codeforces.com/blog/entry/49396) |
 
-For onsite regionals, Codechef-ids of contests are something like ACM16(x), where x=AMR,CHN,KOL,KGP. For example, Chennai's regional can be accessed [here](https://www.codechef.com/ACM16CHN).
+For onsite regionals, Codechef-ids of contests are something like ACM16(x), where x=AMR,CHN,KOL,KGP. For example, Chennai's regional can be accessed via [ACM16CHN](https://www.codechef.com/ACM16CHN).
 
 
 ### ICPC 2015-16
