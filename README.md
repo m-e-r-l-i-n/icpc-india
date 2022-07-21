@@ -184,7 +184,7 @@ With ICPC Live Archive down, and resources limited, I could not find a lot of re
 
 Concluding notes:<br>
 <ul>
-<li>In case there is any error, or I have missed out on anything, or there exist better alternatives, feel free to suggest in the comments.</li>
+  <li>This isn't an <b>ultimate</b> list, a lot of data is still missing. In case anyone finds anything worth adding here, feel free to suggest. Also, in case there is any error, or there exist better alternatives, do let me know that as well.</li>
 <li>I uploaded a lot of data on github because I was unsure if the sites would be active in the distant future. Already enough links are down.</li> 
 <li>A lot of material in this blog has been taken from <a href="https://www.codechef.com/icpc">Codechef</a>. Kudos to them.</li> 
 <li>I have linked most of the contests to the <a href="https://icpc.global/">ICPC Site</a>. It contains standings, problems, reports and also the local website links (some links might not work, I have added as many as I could find, maybe googling will help). Explore around to find all details.</li> 
