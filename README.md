@@ -2,7 +2,7 @@
 
 ICPC India 2021-22 is knocking at the door. So, inspired by similar blogs on Codeforces for [Open Cup](https://codeforces.com/blog/entry/84466), [Petrozavodsk Camp](https://codeforces.com/blog/entry/84489), and [USACO](https://codeforces.com/blog/entry/95032), and also due to the fact [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) collapsed, I decided to list down all ICPC contests of India I could find. 
 
-Please note that this blog contains only the materials and links I could find. I hope this is of some help to you guys. For the Codeforces blog regarding the same, see [here]().
+Please note that this blog contains only the materials and links I could find. I hope this is of some help to you guys. For the Codeforces blog regarding the same, see [here](https://codeforces.com/blog/entry/105000).
 
 ### ICPC 2020-21
 
