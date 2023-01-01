@@ -4,14 +4,28 @@ ICPC India 2021-22 is knocking at the door. So, inspired by similar blogs on Cod
 
 Please note that this blog contains only the materials and links I could find. I hope this is of some help to you guys. For the Codeforces blog regarding the same, see [here](https://codeforces.com/blog/entry/105000).
 
+### ICPC 2021-22
+
+| Contest | Upsolving | Discuss |
+|-|-|-|
+|Preliminary Online Round| [CodeDrills](https://codedrills.io/contests/icpc-india-2021-preliminary-online-round)| [1](https://codeforces.com/blog/entry/105471) [2](https://codeforces.com/blog/entry/106631)|
+|[Amritapuri Doublesite Regional](https://icpc.global/regionals/finder/AMP-2021)| [CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2021-regional-round) | &nbsp;|
+|[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2021)| [CodeDrills](https://codedrills.io/contests/icpc-gwalior-pune-2021-regional-round)| &nbsp;|
+|[Kanpur Regional](https://icpc.global/regionals/finder/Asia-Kanpur-2021)|[CodeDrills](https://codedrills.io/contests/icpc-kanpur-2021-regional-round)| [Codeforces](https://codeforces.com/blog/entry/107595) |
+|[Asia West Continent Final](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2021)| [CodeDrills](https://codedrills.io/contests/icpc-asia-west-continent-finals-2021) | &nbsp; |
+
+The online round was the same for all regionals, and conducted on CodeDrills. More details can be found [here](https://discuss.codedrills.io/t/indian-icpc-regionals-2021-22/1806).<br>
+Also note that this time Asia West Continent Final was held, after missing the 2020-21 edition due to covid. 
+
+
 ### ICPC 2020-21
 
 | Contest | Upsolving | Materials | Discuss |
 |-|-|-|-|
-|[Amritapuri Preliminary Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2020)| [Codedrills](https://codedrills.io/contests/icpc-amritapuri-2020-preliminary-round)| [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%202020%20-%20India%20Prelims%20Solutions.pdf)| [1](https://codeforces.com/blog/entry/93632)|
-|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2020)| [Codedrills](https://codedrills.io/contests/icpc-amritapuri-2020-regional-round) | [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%202020%20Amritapuri.pdf) | [1](https://codeforces.com/blog/entry/93818) [2](https://codeforces.com/blog/entry/93866) [3](https://codeforces.com/blog/entry/93878)|
-|[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2020)| [Codedrills](https://codedrills.io/contests/icpc-gwalior-pune-2020-regional-round)| [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%202020%20Gwalior-Pune.pdf) | [1](https://codeforces.com/blog/entry/93980) [2](https://codeforces.com/blog/entry/94001) [3](https://codeforces.com/blog/entry/94010)|
-|[Kanpur-Mathura Regional](https://icpc.global/regionals/finder/Asia-Kanpur-Mathura-2020)|[Codemarshal](https://algo.codemarshal.org/contests/kanpur_2020)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2021.pdf) | [1](https://codeforces.com/blog/entry/94061)|
+|[Amritapuri Preliminary Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2020)| [CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2020-preliminary-round)| [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%202020%20-%20India%20Prelims%20Solutions.pdf)| [1](https://codeforces.com/blog/entry/93632)|
+|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2020)| [CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2020-regional-round) | [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%202020%20Amritapuri.pdf) | [1](https://codeforces.com/blog/entry/93818) [2](https://codeforces.com/blog/entry/93866) [3](https://codeforces.com/blog/entry/93878)|
+|[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2020)| [CodeDrills](https://codedrills.io/contests/icpc-gwalior-pune-2020-regional-round)| [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC%202020%20Gwalior-Pune.pdf) | [1](https://codeforces.com/blog/entry/93980) [2](https://codeforces.com/blog/entry/94001) [3](https://codeforces.com/blog/entry/94010)|
+|[Kanpur-Mathura Regional](https://icpc.global/regionals/finder/Asia-Kanpur-Mathura-2020)|[CodeMarshal](https://algo.codemarshal.org/contests/kanpur_2020)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2021.pdf) | [1](https://codeforces.com/blog/entry/94061)|
 
 
 ### ICPC 2019-20
@@ -23,9 +37,11 @@ Please note that this blog contains only the materials and links I could find. I
 |[Gwalior-Pune Regional](https://icpc.global/regionals/finder/ICPC-Gwalior-Pune-2019)|[Codechef](https://www.codechef.com/GW19MOS)|[Discuss](https://discuss.codechef.com/tag/gw19mos/)|
 |[Kanpur Regional](https://icpc.global/regionals/finder/Asia-Kanpur-2019)|[Codechef](https://www.codechef.com/KA19MOS)|[Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/problems2019kanpur.pdf) [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC_Kanpur_2019___Problem_Discussion.pdf)|
 |[Kharagpur Regional](https://icpc.global/regionals/finder/Kharagpur-2019)|[Codechef](https://www.codechef.com/KH19MOS)|[Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/Problem_Discussion_2019_KGP.pdf) Discuss:[1](https://discuss.codechef.com/t/icpc-asia-kharagpur-onsite-2019-solution-outlines/45978?u=harshraj22),[2](https://codeforces.com/blog/entry/72009)|
+|[Asia West Continent Final](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2019)| [CodeMarshal](https://algo.codemarshal.org/contests/awf-19)| Discuss:[1](https://codeforces.com/blog/entry/73328),[2](https://codeforces.com/blog/entry/72902) |
 
-Please note that the online round was the same for all regionals, and conducted on codechef. More details can be found [here](https://www.codechef.com/icpc/2020).<br>
-The Gwalior-Pune regional editorials and solutions can be found in the <i>discussions</i> as well.   
+The online round was the same for all regionals, and conducted on Codechef. More details can be found [here](https://www.codechef.com/icpc/2020).<br>
+The Gwalior-Pune regional editorials and solutions can be found in the <i>discussions</i> as well.<br>
+This was the first time Asia West Continent Final contest was held, more details about it can be found [here](https://codeforces.com/blog/entry/70882).
 
 
 ### ICPC 2018-19
