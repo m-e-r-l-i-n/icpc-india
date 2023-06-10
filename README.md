@@ -1,18 +1,18 @@
 # List of ICPC India Contests
 
-~ICPC India 2021-22 is knocking at the door.~ So, inspired by similar blogs on Codeforces for [Open Cup](https://codeforces.com/blog/entry/84466), [Petrozavodsk Camp](https://codeforces.com/blog/entry/84489), and [USACO](https://codeforces.com/blog/entry/95032), and also due to the fact [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) collapsed, I decided to list down all ICPC contests of India I could find. 
+<s>ICPC India 2021-22 is knocking at the door.</s> So, inspired by similar blogs on Codeforces for [Open Cup](https://codeforces.com/blog/entry/84466), [Petrozavodsk Camp](https://codeforces.com/blog/entry/84489), and [USACO](https://codeforces.com/blog/entry/95032), and also due to the fact [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) collapsed, I decided to list down all ICPC contests of India I could find. 
 
 Please note that this blog contains only the materials and links I could find. I hope this is of some help to you guys. For the Codeforces blog regarding the same, see [here](https://codeforces.com/blog/entry/105000).
 
 ### ICPC 2022-23
 
-| Contest | Upsolving | Materials | Discuss |
-|-|-|-|-|
-|[Mathura Kanpur Preliminary Round](https://icpc.global/regionals/finder/Preliminary-Round-2023)| [CodeDrills](https://codedrills.io/contests/icpc-kanpur-mathura-2022-qualifier-round)| &nbsp; | [1](https://codeforces.com/blog/entry/114039) [2](https://codeforces.com/blog/entry/112922) |
-|[Amritapuri First Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2023)| [CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2022-qualifier-round) | &nbsp; | &nbsp;|
-|[Mathura Kanpur Regional](https://icpc.global/regionals/finder/ICPC-Mathura-2023)|[CodeDrills](https://codedrills.io/contests/icpc-mathura-kanpur-2022-regional-round)| [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/kanpur_problems_2022.pdf) | &nbsp; |
-|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2023)|[CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2022-regional-round)| [Editorial](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC_Amritapuri_Regionals_2022___Problem_Discussion.pdf) | [Codeforces](https://codeforces.com/blog/entry/114628) |
-|[Asia West Continent Final](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023)| [CodeDrills](https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2022) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/asia_west_2022_problem_sets.pdf) | [Codeforces](https://codeforces.com/blog/entry/116604) |
+| Contest | Upsolving | Materials |
+|-|-|-|
+|[Mathura Kanpur Preliminary Round](https://icpc.global/regionals/finder/Preliminary-Round-2023)| [CodeDrills](https://codedrills.io/contests/icpc-kanpur-mathura-2022-qualifier-round)| Discuss:[1](https://codeforces.com/blog/entry/114039),[2](https://codeforces.com/blog/entry/112922) |
+|[Amritapuri First Round](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2023)| [CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2022-qualifier-round) | &nbsp; |
+|[Mathura Kanpur Regional](https://icpc.global/regionals/finder/ICPC-Mathura-2023)|[CodeDrills](https://codedrills.io/contests/icpc-mathura-kanpur-2022-regional-round)| [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/kanpur_problems_2022.pdf) |
+|[Amritapuri Regional](https://icpc.global/regionals/finder/AMP-2023)|[CodeDrills](https://codedrills.io/contests/icpc-amritapuri-2022-regional-round)| [Solutions](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/ICPC_Amritapuri_Regionals_2022___Problem_Discussion.pdf) [Discuss](https://codeforces.com/blog/entry/114628) |
+|[Asia West Continent Final](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023)| [CodeDrills](https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2022) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/asia_west_2022_problem_sets.pdf) [Discuss](https://codeforces.com/blog/entry/116604) |
 
 This was the first time in several years only 2 regionals were conducted, and each of them had a separate qualifier round.<br>
 A [Universal Cup](https://ucup.ac/) round was organized based on Amritapuri and Asia West problems, details can be found in the Asia West CF blog. Kudos to the authors! <br>
