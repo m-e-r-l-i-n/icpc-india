@@ -15,7 +15,7 @@ Please note that this blog contains only the materials and links I could find. I
 |[Asia West Continent Final](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023)| [CodeDrills](https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2022) | [Statements](https://github.com/m-e-r-l-i-n/icpc-india/blob/main/src/asia_west_2022_problem_sets.pdf) [Discuss](https://codeforces.com/blog/entry/116604) |
 
 This was the first time in several years only 2 regionals were conducted, and each of them had a separate qualifier round.<br>
-A [Universal Cup](https://ucup.ac/) round was organized based on Amritapuri and Asia West problems, details can be found in the Asia West CF blog. Kudos to the authors! <br>
+A [Universal Cup](https://ucup.ac/) round was organized based on Amritapuri and Asia West problems, details can be found in [this](https://codeforces.com/blog/entry/80326) CF blog. Kudos to the authors! <br>
 Small update: I have drifted away from CP in the past few months, so it might be a while before this blog is updated again.
 
 
